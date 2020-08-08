@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 
----
-<br/>
 
+<br/>
+---
 <img align="left" alt="Patrick Munnelly's Github Stats" src="https://github-readme-stats.Patrick-Munnelly.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
