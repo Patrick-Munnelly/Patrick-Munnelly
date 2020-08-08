@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋. I'm Patrick.
+- 🔭 I’m currently working on ...Flutter, MERN and firebase.
+- 🌱 I’m currently learning ... A lot of things.
+
+
+### Connect with me:
+
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
 
 <!--
 **Patrick-Munnelly/Patrick-Munnelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,8 +47,13 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-
-
+---
 <br/>
----<br/>
+<br/>
 <img align="left" alt="Patrick Munnelly's Github Stats" src="https://github-readme-stats.Patrick-Munnelly.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+
+
+<!--[website]: https://codeSTACKr.com-->
+[twitter]: https://twitter.com/P_Maonaile
+[linkedin]: https://linkedin.com/in/pmunnelly
